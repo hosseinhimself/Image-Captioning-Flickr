@@ -4,7 +4,7 @@ This Jupyter notebook (`image-captioning.ipynb`) implements an image captioning 
 
 ## Overview
 
-- **Dataset:** The Flickr8k dataset contains images with corresponding captions. The notebook guides you through the process of downloading and setting up the dataset for training.
+- **Dataset:** The Flickr8k dataset contains images with corresponding captions. The notebook shows the process of downloading and setting up the dataset for training.
 
 - **Model Architecture:**
   - **Encoder CNN (InceptionV3):** Pretrained on ImageNet, the CNN extracts meaningful features from input images.
